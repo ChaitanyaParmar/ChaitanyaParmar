@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChaitanyaParmar.
+- 👀 I’m interested in Software and Web Development.
+- 🌱 I’m currently learning PHP and Java.
+- 📫 You can email me at chaitanya1164m@gmail.com.
